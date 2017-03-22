@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocChat
-thumbnail-path: "img/blocchat.png"
+thumbnail-path: "portfolio/blocchat.png"
 short-description: BlocChat is a simple project allowing people to talk within a chat room.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocchat.png)
+![]({{ site.baseurl }}/portfolio/blocchat.png)
 
 ## Explanation
 
