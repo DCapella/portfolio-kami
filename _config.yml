@@ -10,7 +10,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Software developer and workout enthusiast!</h1>
+     <h1>Software Developer</h1>
+     <h1>and</h1>
+     <h1>Workout Enthusiast!</h1>
      <p>Favorite programming language is Python!</p>
   header_text_feature_image:
   footer_text: >
