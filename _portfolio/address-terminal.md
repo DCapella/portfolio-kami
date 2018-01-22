@@ -28,7 +28,7 @@ Users need to be able to:
 
 Using Python 3 to build Address Terminal allows users to easily store and retrieve entries. It also allows me to test the features in one file.
 
-{% highlight python linenos %}
+{% highlight python %}
 # start of tests
 print("="*25 + "\nSTART OF TESTS" + "\n" + "="*25)
 errors = 0
